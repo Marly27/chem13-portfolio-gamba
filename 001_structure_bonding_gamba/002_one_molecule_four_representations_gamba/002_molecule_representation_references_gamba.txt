@@ -1,0 +1,21 @@
+REFERENCES:
+‎
+‎Ketcher v3.18.0. (2024). Epam.Com. https://lifescience.opensource.epam.com/KetcherDemoSA/index.html
+‎
+‎PubChem. (2019). Propane. Nih.Gov; PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/6334
+‎
+‎PubChem. (2004, September 16). Ethanol. PubChem; PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/702
+‎
+‎PubChem. (2004, September 16). Acetone. Nih.Gov; PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/180
+‎
+‎PubChem. (2004, September 16). Acetic acid. Nih.Gov; PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/176
+‎
+‎PubChem. (2004, September 16). Ethyl acetate. Nih.Gov; PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/8857
+‎
+‎PubChem. (2004, September 16). Cyclohexane. Nih.Gov; PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/8078
+‎
+‎PubChem. (2004, September 16). Acetaminophen. Nih.Gov; PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/1983
+‎
+‎PubChem. (2004, September 16). Aspirin. Nih.Gov; PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/2244
+‎
+‎PubChem. (2004, September 16). Caffeine. Nih.Gov; PubChem. https://pubchem.ncbi.nlm.nih.gov/compound/caffeine
